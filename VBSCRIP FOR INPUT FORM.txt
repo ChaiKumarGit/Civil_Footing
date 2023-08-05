@@ -1,0 +1,29 @@
+
+
+Private Sub Command1_Click()
+Open "input1.txt" For Output As #1
+Dim i As Integer
+For i = 0 To 23
+Print #1, Text1(i).Text
+Next
+Close #1
+
+Dim retval
+retval = Shell("A1.exe")
+MsgBox ("CLICK TO SAVE INPUT")
+
+RES.Show
+End Sub
+
+Private Sub Form_Load()
+Dim i As Integer
+Dim temp As String
+Open "input1.txt" For Input As #1
+For i = 0 To 23
+Input #1, temp
+Text1(i).Text = temp
+Next
+
+Close #1
+End Sub
+

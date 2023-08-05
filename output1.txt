@@ -1,0 +1,31 @@
+
+
+ WIDTH OF THE FOOTING IS 3.000000
+	Ultimate Bearing capacity(in kPa): 863.965088
+	Safe Bearing capacity(in kPa): 449.982544
+
+Proposed Load on the Footing(in kN): 150.000000
+	CONSOLIDATION SETTLEMENT OF CLAY(in mm)= 8484.469727
+	IMMEDIATE SETTLEMENT OF CLAY(in mm)= 0.683333
+
+	TOTAL SETTLEMENT OF CLAY(in mm)= 8485.153320
+
+	IMMEDIATE SETTLEMENT OF SAND(in mm)= 0.282698
+	TOTAL SETTLEMENT OF SOIL (in mm)= 8485.436018
+
+	Allowable Bearing Pressure(in kPa): 16.666666
+
+**************************************************************
+
+AS THE SETTLEMENT HAS TO BE RESTRICTED TO 75mm AS PER IS-CODES
+
+Width of the footing is changed to 46.699577
+	CONSOLIDATION SETTLEMENT OF CLAY(in mm)= 74.191849
+	IMMEDIATE SETTLEMENT OF CLAY(in mm)= 0.683333
+
+	TOTAL SETTLEMENT OF CLAY(in mm)= 74.875183
+
+	IMMEDIATE SETTLEMENT OF SAND(in mm)= 0.006209
+	TOTAL SETTLEMENT OF SOIL (in mm)= 74.881393
+
+	Allowable Bearing Pressure(in kPa): 1.070674
